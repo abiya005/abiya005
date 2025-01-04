@@ -1,4 +1,10 @@
 ## Hi there 👋
+# Welcome to My GitHub Profile! 👋
+- 🔭 I’m currently working on Front-End based projects.
+- 🌱 I’m learning Front-End development.
+- 💬 Ask me about cloud computing, css, javascript, python.
+- 📫 How to reach me: abiyabiju.official@gmail.com/www.linkedin.com/in/abiya-biju-268111294.
+- 😄 Pronouns: She/Her.
 
 <!--
 **abiya005/abiya005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
