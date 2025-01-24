@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile! 👋
 - 🔭 I’m currently working on Front-End based projects.
 - 🌱 I’m learning Front-End development.
-- 💬 Ask me about cloud computing, css, javascript, python.
+- 💬 Ask me about cloud computing, css, javascript, python, java.
 - 📫 How to reach me: abiyabiju.official@gmail.com/www.linkedin.com/in/abiya-biju-268111294.
 - 😄 Pronouns: She/Her.
 
